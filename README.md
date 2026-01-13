@@ -8,4 +8,3 @@
 ### 🛠️ Built With
 * **Java 17** - Core logic and Object-Oriented structure.
 * **MASON Framework** - Used for the discrete-event simulation engine and agent scheduling.
-* **Java Swing** - (If you used MASON's default GUI) For real-time visualization of the spread.
