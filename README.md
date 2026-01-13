@@ -4,3 +4,8 @@
 > **Quick Links:** [📊 View Presentation (PDF)](./Project_overview.pdf)
 >
 > This project is a Java-based simulation designed to model the transmission dynamics of infectious diseases within a closed population. Using **Agent-Based Modeling (ABM)**, I simulated individual interactions to observe how variables like infection rate, recovery time, and social distancing impact the overall "curve" of an outbreak.
+
+### 🛠️ Built With
+* **Java 17** - Core logic and Object-Oriented structure.
+* **MASON Framework** - Used for the discrete-event simulation engine and agent scheduling.
+* **Java Swing** - (If you used MASON's default GUI) For real-time visualization of the spread.
