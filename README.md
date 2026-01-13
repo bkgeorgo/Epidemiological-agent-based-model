@@ -1,4 +1,5 @@
 # Agent-Based Model (ABM) for Epidemiological Spread: Urban and rural environments
+![Decision Diagram](./Decision_diagram.png)
 
 > **Quick Links:** [📊 View Presentation (PDF)](./Project_overview.pdf)
 >
